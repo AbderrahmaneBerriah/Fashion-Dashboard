@@ -1,6 +1,6 @@
-# Fashion-Dashboard
+# Fashion Brands Visualisation
 
-#### Click on the link below to view interactive Dashboard
+##### Click on the link below to view interactive Dashboard
 
 ##### https://app.powerbi.com/view?r=eyJrIjoiZTBjNWJlNzQtMzk5Ny00YThjLWJjYzYtY2ExODVjOTU2ZWQ4IiwidCI6ImU3M2FhNjk0LWNjNGItNDNlMS1hMDExLWU2MWE2MDNiYWQzMyJ9
 
@@ -16,7 +16,7 @@ This dashboard provides insights into product performance in terms of quantity s
 
 ##### Key Features:
 
-Product Sales and Ratings: A bar chart displays product quantities sold alongside their average ratings, offering a comparative view of product performance.\
+Product Sales and Ratings: A bar chart displays product quantities sold alongside their average ratings, offering a comparative view of product performance.\\
 Example Products: Jeans, Shoes, T-shirts, Dresses, Sweaters.\
 Ratings range: ~2.90 to 3.16.\
 Revenue by Category: A pie chart shows the income distribution across Kids', Women's, and Men's Fashion.\
