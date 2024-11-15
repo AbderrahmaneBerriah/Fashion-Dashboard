@@ -9,6 +9,6 @@
 ![Fashion 1](https://github.com/user-attachments/assets/79fcddf5-c71c-4669-96aa-4dac4a2781f2)
 
 
-### First Dashborad: Products Dashboard
+### Second Dashborad: Brands Dashboard
 
 ![Fashion 2](https://github.com/user-attachments/assets/8c62a8b1-ebaf-4e41-8371-3822e2bac5d4)
