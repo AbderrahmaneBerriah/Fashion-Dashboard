@@ -16,12 +16,12 @@ This dashboard provides insights into product performance in terms of quantity s
 
 ##### Key Features:
 
-Product Sales and Ratings: A bar chart displays product quantities sold alongside their average ratings, offering a comparative view of product performance.
-Example Products: Jeans, Shoes, T-shirts, Dresses, Sweaters.
-Ratings range: ~2.90 to 3.16.
-Revenue by Category: A pie chart shows the income distribution across Kids', Women's, and Men's Fashion.
-Women's Fashion: 35.56% of total income.
-Low-rated Products: A table lists products with below-average ratings (<2.5/5), highlighting the product ID, average rating, and corresponding income.
+Product Sales and Ratings: A bar chart displays product quantities sold alongside their average ratings, offering a comparative view of product performance.\
+Example Products: Jeans, Shoes, T-shirts, Dresses, Sweaters.\
+Ratings range: ~2.90 to 3.16.\
+Revenue by Category: A pie chart shows the income distribution across Kids', Women's, and Men's Fashion.\
+Women's Fashion: 35.56% of total income.\
+Low-rated Products: A table lists products with below-average ratings (<2.5/5), highlighting the product ID, average rating, and corresponding income.\
 Total Income: $36K, with ~$20K attributed to poorly rated items.
 
 
@@ -34,9 +34,9 @@ This dashboard focuses on customer ratings and income contributions by brand, em
 
 ##### Key Features:
 
-Product Ratings: A visual display of product ratings similar to Dashboard 1, reinforcing which products consistently perform better.
-Income and Sales by Brand: A dual-axis chart compares total income and products sold across key brands.
-Top Brands: Nike, H&M, Zara, Adidas, Gucci.
-Example: Nike generated $12,320 with 214 products sold.
-Top Products: Another view of top-performing products by income and sales.
+Product Ratings: A visual display of product ratings similar to Dashboard 1, reinforcing which products consistently perform better.\
+Income and Sales by Brand: A dual-axis chart compares total income and products sold across key brands.\
+Top Brands: Nike, H&M, Zara, Adidas, Gucci.\
+Example: Nike generated $12,320 with 214 products sold.\
+Top Products: Another view of top-performing products by income and sales.\
 Leading Products: Jeans and Shoes contribute significantly to revenue.
